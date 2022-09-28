@@ -1,0 +1,19 @@
+<html>
+<head></head>
+ <body>
+  <table border="1">
+        <thead>
+            <tr>
+                <td>JUDUL</td>
+                <td>DURASI</td>
+                <td>KATAGORI</td>
+            </tr>
+        </thead>
+        <tbody>
+            <td>
+                <tr>ISI</tr>
+            </td>
+        </tbody>
+  </table>
+ </body>
+</html>
